@@ -79,3 +79,19 @@ print("hello" > "world")
 print("hello" == "hello")
 
 print("cat" < "dog")
+
+print(1.5 < 90)
+
+x = 7
+y = 49
+
+
+if (2*x == y):
+  print("y is double of x")
+elif (x**2 == y):
+  print("y is the squared of x")
+else:
+  print("y is NOT double of x")
+  
+  number = input("Dial a number")
+
